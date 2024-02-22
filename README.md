@@ -4,9 +4,9 @@ A simple web application to view public GitHub repositories for a given user.
 
 ## Features
 
-- **User Information:** Display user's profile picture, name, location, and a link to their social media profile.
+- **User Information:** Display user's Avatar and name.
 - **Repositories Display:** Show a list of public repositories with details such as repository name, description, language, topics, stars, forks, and owner's avatar.
-- **Pagination:** Server-side pagination with customizable options. By default, 10 repositories per page, with options to display up to 100 repositories per page.
+- **Pagination:** Server-side pagination with customizable options. By default, 10 repositories per page.
 - **Loader:** Informative loading indicator when fetching data from the GitHub API.
 - **Search Bar:** Allow users to filter repositories by entering a GitHub username.
 
